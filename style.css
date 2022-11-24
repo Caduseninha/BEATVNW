@@ -1,0 +1,91 @@
+
+.lista{
+    display:flex;
+    padding-right:8%;
+    justify-content: space-evenly;
+    font-size: 2vw;
+    font-weight: bold;
+    align-items: center;
+    line-height: 1rem;
+    font-family: 'Roboto', sans-serif;
+    color: #F7F7F7;
+margin: 2rem;}
+.verde{
+    background-color: #129799;
+}
+.laranja h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    color: #F7F7F7;
+    margin: 2rem;
+    line-height: 10rem;
+}
+.laranja p{font-family: 'Roboto', sans-serif;
+   color:#000000 ; 
+   margin: 2rem;
+   font-size: 2vw;
+}
+.titulo{
+    font-family: 'Roboto', sans-serif;
+    display: flex ;
+    align-items:center;
+    color: #F7F7F7;
+    margin: 2rem;
+}
+
+.titulo img{
+    display: flex;
+    max-width: 100%;
+    width:38vw ;
+    justify-content: space-evenly;
+    margin: 2rem;}
+    .titulo h1{
+    font-size: 5vw;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.laranja{
+ background-color: #FFA185;}
+    .grade {
+        max-width: 100%;
+        display: flex;
+        grid-gap:1rem;
+        margin: 2rem;
+        line-height: 5vw}
+
+            .grade img {width: 46vw;} 
+        .grade2{
+            max-width: 100%;
+            display: flex;
+            grid-gap:1rem;
+            margin: 2rem;
+            font-family: 'Roboto', sans-serif;
+            font-size: 2vh;}
+                .grade2 img{width: 46vw;}
+                .grade2 h2{
+                    display: lex;
+                    font-size: 2rem;
+                    color: #000000;
+                }
+    
+.footer{ padding-left: 30% ;}
+.icones{ max-width: 50%;
+    display: flex;
+    grid-gap:1rem;
+    margin: 2rem;}
+    
+    .icones img{
+        width: 3vw;
+        padding-left:1vw}
+        .listadofooter{
+            display:flex;
+            justify-content: space-evenly;
+            font-weight: bold;
+            font-size: 3vw;
+            line-height: 1rem;
+            font-family: 'Roboto', sans-serif;
+            color: #F7F7F7;
+            margin: 2rem;}
+
